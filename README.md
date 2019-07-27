@@ -1,0 +1,2 @@
+# Summoner.exe-beta-trojan
+This is a type of Trojan horse virus. It is very much like a memo except that this virus will not get rid of the maximum reinstallation of the system. Deactivates cmd, task manager, start button, windows defender, folder access, closes all open files, clears desktop background, slows down your pc by up to 65%. There is very little probability that you can easily transmit the virus. You need special system knowledge to remove it from your computer. The easy way is to reinstall the system.
